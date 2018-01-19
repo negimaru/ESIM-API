@@ -21,3 +21,8 @@ Simple API Example for Small Projects
 
 
 # Callbacks
+
+
+# Throttling And Debounce
+
+# LocalStorage Cache
