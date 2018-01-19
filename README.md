@@ -1,7 +1,8 @@
 # HestiAPI
 Simple API Example for Small Projects
 
-# What does it provide
+# What Does It Provide
+
 
 # How It Works
 
@@ -13,6 +14,9 @@ Simple API Example for Small Projects
 
 
 
-
-
 # Events
+
+
+# Request As Object
+
+# Callbacks
